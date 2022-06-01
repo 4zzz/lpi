@@ -187,17 +187,6 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "29": {
-      "id": 29,
-      "type": "structureExplorer",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -210,7 +199,6 @@
     4,
     3,
     26,
-    29,
     6,
     5,
     11,
