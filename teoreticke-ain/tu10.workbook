@@ -169,7 +169,7 @@
     "39": {
       "id": 39,
       "type": "text",
-      "data": "some content",
+      "data": "## $\\LaTeX$\n  - a\n  - b\n  - v",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -197,5 +197,6 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14
+  "lastCellId": 14,
+  "editedCellId": 39
 }
