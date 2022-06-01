@@ -166,17 +166,6 @@
       },
       "isEdited": false
     },
-    "26": {
-      "id": 26,
-      "type": "text",
-      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "28": {
       "id": 28,
       "type": "text",
@@ -209,7 +198,6 @@
     16,
     4,
     3,
-    26,
     31,
     6,
     5,
@@ -221,6 +209,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 28
+  "lastCellId": 14
 }
