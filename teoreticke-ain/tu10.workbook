@@ -177,17 +177,6 @@
       },
       "isEdited": false
     },
-    "27": {
-      "id": 27,
-      "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"c1, c2\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"c1\",\"c2\"]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"c1\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]},\"c2\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]}},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "28": {
       "id": 28,
       "type": "text",
@@ -210,7 +199,6 @@
     4,
     3,
     26,
-    27,
     6,
     5,
     11,
