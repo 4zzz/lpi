@@ -176,22 +176,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "36": {
-      "id": 36,
-      "type": "text",
-      "data": "some content\n  - a\n  - b\n  - c\n  s\n  s\n  ",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
     0,
-    36,
     10,
     1,
     2,
@@ -209,6 +197,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 36
+  "lastCellId": 14
 }
