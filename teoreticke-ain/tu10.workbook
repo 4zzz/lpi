@@ -165,22 +165,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "23": {
-      "id": 23,
-      "type": "text",
-      "data": "some content\nzmeny sa ukladajú automaticky",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    23,
     10,
     1,
     2,
@@ -197,6 +185,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 23
+  "lastCellId": 14
 }
