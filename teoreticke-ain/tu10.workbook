@@ -187,17 +187,6 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "30": {
-      "id": 30,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -210,7 +199,6 @@
     4,
     3,
     26,
-    30,
     6,
     5,
     11,
