@@ -165,22 +165,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "32": {
-      "id": 32,
-      "type": "text",
-      "data": "## $\\LaTeX$\n\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    32,
     10,
     1,
     2,
@@ -197,6 +185,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 32
+  "lastCellId": 14
 }
