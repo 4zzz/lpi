@@ -180,7 +180,7 @@
     "37": {
       "id": 37,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n  - a\n  - b\n  - c",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -209,5 +209,6 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14
+  "lastCellId": 14,
+  "editedCellId": 37
 }
