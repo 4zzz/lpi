@@ -1,5 +1,5 @@
 {
-  "idCounter": 44,
+  "idCounter": 45,
   "cells": {
     "0": {
       "id": 0,
@@ -176,6 +176,17 @@
         "entities": {}
       },
       "isEdited": false
+    },
+    "44": {
+      "id": 44,
+      "type": "text",
+      "data": "some content",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -187,6 +198,7 @@
     16,
     4,
     3,
+    44,
     6,
     5,
     11,
