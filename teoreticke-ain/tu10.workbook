@@ -169,13 +169,13 @@
     "25": {
       "id": 25,
       "type": "text",
-      "data": "some content",
+      "data": "Zmeny sa automaticky priebežne ukladajú",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -198,5 +198,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 16
+  "editedCellId": 25
 }
