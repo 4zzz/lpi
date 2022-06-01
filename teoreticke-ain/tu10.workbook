@@ -180,7 +180,7 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "some content",
+      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -210,5 +210,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 25
+  "editedCellId": 26
 }
