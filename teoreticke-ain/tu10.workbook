@@ -165,22 +165,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "28": {
-      "id": 28,
-      "type": "text",
-      "data": "$\\LaTeX$",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    28,
     10,
     1,
     2,
