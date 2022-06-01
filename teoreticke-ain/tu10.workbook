@@ -180,13 +180,13 @@
     "36": {
       "id": 36,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n  s\n  s\n  s\n  ",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -210,5 +210,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 34
+  "editedCellId": 36
 }
