@@ -158,7 +158,7 @@
     "16": {
       "id": 16,
       "type": "text",
-      "data": "**Autor/-ka tohto riešenia:** Jarka Mrkvičková\n\n**Dátum riešenia:** D. M. 2022",
+      "data": "**Autor/-ka tohto riešenia:** Matej Mok\n\n**Dátum riešenia:** D. M. 2022",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -186,5 +186,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 14
+  "editedCellId": 16
 }
