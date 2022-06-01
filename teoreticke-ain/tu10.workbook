@@ -180,7 +180,7 @@
     "38": {
       "id": 38,
       "type": "text",
-      "data": "some content",
+      "data": "## $\\LaTeX$\n\n\n\n1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -209,5 +209,6 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14
+  "lastCellId": 14,
+  "editedCellId": 38
 }
