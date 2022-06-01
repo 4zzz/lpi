@@ -166,17 +166,6 @@
       },
       "isEdited": false
     },
-    "33": {
-      "id": 33,
-      "type": "text",
-      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "34": {
       "id": 34,
       "type": "structureExplorer",
@@ -206,7 +195,6 @@
     16,
     4,
     3,
-    33,
     34,
     6,
     5,
