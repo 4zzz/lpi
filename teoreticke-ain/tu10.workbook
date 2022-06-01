@@ -191,13 +191,13 @@
     "28": {
       "id": 28,
       "type": "text",
-      "data": "\\LaTeX",
+      "data": "$\\LaTeX$",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
