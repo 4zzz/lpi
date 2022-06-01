@@ -176,17 +176,6 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "31": {
-      "id": 31,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -198,7 +187,6 @@
     16,
     4,
     3,
-    31,
     6,
     5,
     11,
