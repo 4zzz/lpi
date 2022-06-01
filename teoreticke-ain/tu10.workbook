@@ -169,13 +169,13 @@
     "32": {
       "id": 32,
       "type": "text",
-      "data": "some content",
+      "data": "## $\\LaTeX$\n\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -197,5 +197,6 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14
+  "lastCellId": 14,
+  "editedCellId": 32
 }
