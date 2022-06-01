@@ -196,22 +196,10 @@
         }
       },
       "isEdited": false
-    },
-    "42": {
-      "id": 42,
-      "type": "text",
-      "data": "## $\\LaTeX$\n\n  - a\n  - b\n  - c",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    42,
     10,
     1,
     2,
@@ -230,6 +218,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 42
+  "lastCellId": 14
 }
