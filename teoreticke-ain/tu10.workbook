@@ -216,21 +216,10 @@
         "ids": [],
         "entities": {}
       }
-    },
-    "53": {
-      "id": 53,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
     }
   },
   "cellsOrder": [
     0,
-    53,
     52,
     51,
     10,
