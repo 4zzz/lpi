@@ -186,5 +186,12 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 14
+  "editedCellId": 14,
+  "settings": {
+    "katexMacros": "",
+    "github": {
+      "editBranch": "tu10",
+      "handinBranch": ""
+    }
+  }
 }
