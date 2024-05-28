@@ -196,10 +196,21 @@
         }
       },
       "isEdited": false
+    },
+    "51": {
+      "id": 51,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     0,
+    51,
     10,
     1,
     2,
