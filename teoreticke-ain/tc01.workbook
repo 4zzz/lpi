@@ -10,7 +10,46 @@
     {
       "id": 63,
       "type": "newStructureExplorer",
-      "data": null,
+      "data": {
+        "version": 1,
+        "formulas": {
+          "allFormulas": []
+        },
+        "queries": {
+          "queries": []
+        },
+        "language": {
+          "constants": {
+            "value": [],
+            "locked": false
+          },
+          "predicates": {
+            "value": [],
+            "locked": false
+          },
+          "functions": {
+            "value": [],
+            "locked": false
+          },
+          "editMode": true
+        },
+        "variables": {
+          "value": [],
+          "locked": false
+        },
+        "teacherMode": {},
+        "structure": {
+          "domain": {
+            "value": [],
+            "locked": false
+          },
+          "iC": {},
+          "iP": {},
+          "iF": {}
+        },
+        "graphView": {},
+        "editorToolbar": {}
+      },
       "comments": []
     },
     {
