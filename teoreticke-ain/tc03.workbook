@@ -8,6 +8,12 @@
       "comments": []
     },
     {
+      "id": 50,
+      "type": "text",
+      "data": "",
+      "comments": []
+    },
+    {
       "id": 21,
       "type": "text",
       "data": "## :icon[homework] Domáca úloha\n\n:icon[bonus] Ďalšie skúsenosti a spätnú väzbu môžete získať vyriešením domácej úlohy:\n\n::::div{.dl-indented}\n2. domáca úloha\n:    :::div{.dl-indented}\n     :icon[file-earmark-ruled-fill]{.text-primary} Pracovný hárok\n     : [du02](../../du02/teoreticke-ain/du02.workbook) :small[(odkaz otvorí hárok v správnej vetve)]\n\n     :icon[deadline] Termín odovzdania\n     : nedeľa 15. 3. 2026 o 23:59:59\n     :::\n::::",
