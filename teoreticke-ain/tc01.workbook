@@ -8,6 +8,12 @@
       "comments": []
     },
     {
+      "id": 64,
+      "type": "text",
+      "data": "",
+      "comments": []
+    },
+    {
       "id": 63,
       "type": "newStructureExplorer",
       "data": {
