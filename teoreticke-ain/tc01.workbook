@@ -240,7 +240,18 @@
         {
           "id": 69,
           "type": "context",
-          "data": [],
+          "data": [
+            {
+              "id": 70,
+              "type": "context/language",
+              "data": {
+                "constants": "",
+                "predicates": "",
+                "functions": ""
+              },
+              "comments": []
+            }
+          ],
           "comments": []
         },
         {
