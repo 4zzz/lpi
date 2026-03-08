@@ -8,9 +8,75 @@
       "comments": []
     },
     {
+      "id": 64,
+      "type": "text",
+      "data": "ghhhvffgggggg",
+      "comments": []
+    },
+    {
+      "id": 63,
+      "type": "newStructureExplorer",
+      "data": {
+        "version": 1,
+        "formulas": {
+          "allFormulas": []
+        },
+        "queries": {
+          "queries": []
+        },
+        "language": {
+          "constants": {
+            "value": [
+              "11"
+            ],
+            "locked": false
+          },
+          "predicates": {
+            "value": [],
+            "locked": false
+          },
+          "functions": {
+            "value": [],
+            "locked": false
+          },
+          "editMode": true
+        },
+        "variables": {
+          "value": [],
+          "locked": false
+        },
+        "teacherMode": {},
+        "structure": {
+          "domain": {
+            "value": [],
+            "locked": false
+          },
+          "iC": {},
+          "iP": {},
+          "iF": {}
+        },
+        "graphView": {},
+        "editorToolbar": {}
+      },
+      "comments": []
+    },
+    {
       "id": 48,
       "type": "text",
       "data": "## :icon[bonus] Domáca úloha\n\nĎalšie skúsenosti a spätnú väzbu môžete získať vyriešením domácej úlohy.\n\n::::div{.dl-indented}\n1. domáca úloha\n:    :::div{.dl-indented}\n     :icon[file-earmark-ruled-fill]{.text-primary} Pracovný hárok\n     : [du01](../../du01/teoreticke-ain/du01.workbook) :small[(odkaz otvorí hárok v správnej vetve)]\n\n     :icon[deadline] Termín odovzdania\n     : nedeľa 1. 3. 2026 o 23:59:59\n     :::\n::::",
+      "comments": []
+    },
+    {
+      "id": 65,
+      "type": "context",
+      "data": [
+        {
+          "id": 66,
+          "type": "text",
+          "data": "",
+          "comments": []
+        }
+      ],
       "comments": []
     },
     {
@@ -156,15 +222,25 @@
           "comments": []
         },
         {
-          "id": 61,
-          "type": "text",
-          "data": "::h3[:icon[write]]{.float-start.h6.lh-base.my-0.me-2}\nPreložte uvedené atomické formuly\ndo čo najprirodzenejších, ale presných výrokov v slovenčine.\nVýroky napíšte priamo do tejto textovej bunky namiesto „…“.\n\n$A_1$:\n…\n\n$A_2$:\n…\n\n$A_3$:\n…\n\n$A_4$:\n…\n\n$B_1$:\n…\n\n$B_2$:\n…\n\n$B_3$:\n…\n\n$B_4$:\n…",
-          "comments": []
-        },
-        {
           "id": 18,
           "type": "text",
           "data": "## Cvičenie 1.:cnt[a]\n\n:small[:icon[source]\nZbierka:\n:xref[1.1.3]{.exbook label=\"príklad\"},\n:xref[1.1.7]{.exbook label=\"úloha\"}.]\n\nUvažujme jazyk $\\Lang$\na atomické formuly $A_1$, …, $A_4$, $B_1$, …, $B_4$ z cvičenia 1.1.\nNech $\\Struct = (D,i)$ je prvorádová štruktúra pre $\\Lang$, kde\n\n$$\n\\begin{align*}\n    D &= \\{ 1,2,3,4,5,6,7,8,9 \\},\n    \\\\\n    i(\\sym{Alex}) &= 1, \\quad\n    i(\\sym{Betty}) = 2, \\quad\n    i(\\sym{Charles}) = 3, \\quad\n    i(\\sym{Dana}) = 4, \\quad\\\\\n    i(\\sym{Ed}) &= 9, \\quad\n    i(\\sym{Gina}) = 7, \\quad\n    i(\\sym{dad}) = 3, \\quad\n    \\\\\n    i(\\sym{woman}) &= \\{ 1, 2, 3, 8 \\},\n    \\\\\n    i(\\sym{parent}) &= \\{ (4,1), (9,9), (2,3), (3,4), (8,7) \\},\n    \\\\\n    i(\\sym{child}) &= \\{ (3,7,9), (2,7,3), (8,9,1) \\},\n    \\\\\n    i(\\sym{older}) &= \\{ (2,1), (2,2), (2,3), (2,7), (3,4), (7,3), (8,7) \\}\n    .\n\\end{align*}\n$$\n\nRozhodnite, ktoré z formúl $A_1$, …, $A_4$, $B_1$, …, $B_4$ sú pravdivé v štruktúre $\\Struct$.\n\n:::::aside{.note.bg-transparent.p-0}\n:icon[explanation] **Všimnite si**, že hoci každá indivíduová konštanta musí byť interpretovaná\nako niektorý objekt domény (teda pomenúvať ho),\nnie všetky objekty musia byť pomenované\na viacero indivíduových konštánt môže pomenúvať ten istý objekt.\n:::::",
+          "comments": []
+        },
+        {
+          "id": 68,
+          "type": "context/display",
+          "data": {
+            "constants": "",
+            "predicates": "",
+            "functions": ""
+          },
+          "comments": []
+        },
+        {
+          "id": 61,
+          "type": "text",
+          "data": "::h3[:icon[write]]{.float-start.h6.lh-base.my-0.me-2}\nPreložte uvedené atomické formuly\ndo čo najprirodzenejších, ale presných výrokov v slovenčine.\nVýroky napíšte priamo do tejto textovej bunky namiesto „…“.\n\n$A_1$:\n…\n\n$A_2$:\n…\n\n$A_3$:\n…\n\n$A_4$:\n…\n\n$B_1$:\n…\n\n$B_2$:\n…\n\n$B_3$:\n…\n\n$B_4$:\n…",
           "comments": []
         },
         {
