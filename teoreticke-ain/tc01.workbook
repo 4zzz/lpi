@@ -228,6 +228,16 @@
           "comments": []
         },
         {
+          "id": 68,
+          "type": "context/display",
+          "data": {
+            "constants": "",
+            "predicates": "",
+            "functions": ""
+          },
+          "comments": []
+        },
+        {
           "id": 67,
           "type": "text",
           "data": "",
