@@ -238,33 +238,6 @@
           "comments": []
         },
         {
-          "id": 69,
-          "type": "context",
-          "data": [
-            {
-              "id": 70,
-              "type": "context/language",
-              "data": {
-                "constants": "",
-                "predicates": "",
-                "functions": ""
-              },
-              "comments": []
-            },
-            {
-              "id": 73,
-              "type": "context/display",
-              "data": {
-                "constants": "",
-                "predicates": "",
-                "functions": ""
-              },
-              "comments": []
-            }
-          ],
-          "comments": []
-        },
-        {
           "id": 71,
           "type": "context/display",
           "data": {
