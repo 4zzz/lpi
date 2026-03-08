@@ -69,7 +69,14 @@
     {
       "id": 65,
       "type": "context",
-      "data": [],
+      "data": [
+        {
+          "id": 66,
+          "type": "text",
+          "data": "",
+          "comments": []
+        }
+      ],
       "comments": []
     },
     {
