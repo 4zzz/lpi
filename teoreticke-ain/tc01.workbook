@@ -252,6 +252,16 @@
               "comments": []
             },
             {
+              "id": 73,
+              "type": "context/display",
+              "data": {
+                "constants": "",
+                "predicates": "",
+                "functions": ""
+              },
+              "comments": []
+            },
+            {
               "id": 72,
               "type": "text",
               "data": "",
