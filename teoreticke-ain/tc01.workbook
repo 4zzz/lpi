@@ -228,6 +228,12 @@
           "comments": []
         },
         {
+          "id": 67,
+          "type": "text",
+          "data": "",
+          "comments": []
+        },
+        {
           "id": 61,
           "type": "text",
           "data": "::h3[:icon[write]]{.float-start.h6.lh-base.my-0.me-2}\nPreložte uvedené atomické formuly\ndo čo najprirodzenejších, ale presných výrokov v slovenčine.\nVýroky napíšte priamo do tejto textovej bunky namiesto „…“.\n\n$A_1$:\n…\n\n$A_2$:\n…\n\n$A_3$:\n…\n\n$A_4$:\n…\n\n$B_1$:\n…\n\n$B_2$:\n…\n\n$B_3$:\n…\n\n$B_4$:\n…",
