@@ -250,6 +250,12 @@
                 "functions": ""
               },
               "comments": []
+            },
+            {
+              "id": 72,
+              "type": "text",
+              "data": "",
+              "comments": []
             }
           ],
           "comments": []
