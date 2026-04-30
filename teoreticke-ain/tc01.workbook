@@ -20,12 +20,6 @@
       "comments": []
     },
     {
-      "id": 70,
-      "type": "text",
-      "data": "",
-      "comments": []
-    },
-    {
       "id": 63,
       "type": "newStructureExplorer",
       "data": {
