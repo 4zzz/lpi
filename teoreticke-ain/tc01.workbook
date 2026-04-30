@@ -8,12 +8,6 @@
       "comments": []
     },
     {
-      "id": 69,
-      "type": "text",
-      "data": "",
-      "comments": []
-    },
-    {
       "id": 64,
       "type": "text",
       "data": "frrl",
